@@ -1,18 +1,19 @@
 {
-    "name": "all-in-one-swift",
-    "displayName": "All in One Swift",
-    "description": "Contains Swiftlint, Debugger and Autocompletion for Swift.",
-    "version": "0.0.1",
-    "publisher": "vknabel",
-    "engines": {
-        "vscode": "^1.23.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionDependencies": [
-        "vknabel.vscode-swift-development-environment",
-        "shinnn.swiftlint",
-        "vadimcn.vscode-lldb"
-    ]
+  "name": "all-in-one-swift",
+  "displayName": "All in One Swift",
+  "description": "Contains Swiftlint, Debugger and Autocompletion for Swift.",
+  "version": "0.0.1",
+  "publisher": "vknabel",
+  "engines": {
+    "vscode": "^1.23.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionDependencies": [
+    "vknabel.vscode-swift-development-environment",
+    "vknabel.vscode-swiftformat",
+    "shinnn.swiftlint",
+    "vadimcn.vscode-lldb"
+  ]
 }

@@ -7,6 +7,8 @@ This is an extension pack for Visual Studio Code and Swift. It aims to include t
 |-----------|---|
 | [Code LLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) | Have lldb installed |
 | [Maintained SDE](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-swift-development-environment) | Install [Sourcekite](https://github.com/vknabel/vscode-swift-development-environment#installation) |
+| [SwiftFormat](https://marketplace.visualstudio.com/items/vknabel.vscode-swiftformat
+) | Install [SwiftFormat](https://github.com/nicklockwood/SwiftFormat#how-do-i-install-it) |
 | [Swiftlint](https://marketplace.visualstudio.com/items/shinnn.swiftlint) | Install [SwiftLint](https://github.com/realm/SwiftLint#installation) |
 
 ## Can I submit new packages?
